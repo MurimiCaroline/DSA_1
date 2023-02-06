@@ -1,12 +1,7 @@
 
 /*
-Design a HashSet without using any built-in hash table libraries.
-
-Implement MyHashSet class:
-
-void add(key) Inserts the value key into the HashSet.
-bool contains(key) Returns whether the value key exists in the HashSet or not.
-void remove(key) Removes the value key in the HashSet. If key does not exist in the HashSet, do nothing.
+https://bit.ly/DSA_Folder
+https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/
 */
 class MyHashSet {
     private int numBuckets = 15000;
