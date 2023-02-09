@@ -1,6 +1,6 @@
-//the code below gave wrong result. it displayed the numbers twice instead of once
+//the code below displays the number as many times as it occurs in the array twice instead of once
 class Solution {
-    public int[] intersection(int[] nums1, int[] nums2) {
+    public int[] intersect(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
          Arrays.sort(nums2);
         
@@ -54,7 +54,7 @@ class Solution {
  */
 
 
-the code below works
+//the code below works. It displays the repeated number once
 
 
  /*
